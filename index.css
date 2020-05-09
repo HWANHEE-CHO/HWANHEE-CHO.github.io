@@ -1,0 +1,14 @@
+body{background-color:black;}
+h1{color: lightpink;
+text-align: center;
+font-size: 65px;}
+img{display : block;
+    margin: 0 auto;}
+div {color: lightpink;}
+.card.card-header{display: inline;
+    text-align: center;}
+ul.list-group list-group-flush.list-group-item{display: inline;
+text-align: center;}
+
+ 
+
