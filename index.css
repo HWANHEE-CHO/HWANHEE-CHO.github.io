@@ -1,11 +1,14 @@
 body{background-color:black;}
 h1{color: lightpink;
+    text-shadow: 4px 4px deeppink;
 text-align: center;
 font-size: 65px;}
 img{display : block;
     margin: 0 auto;}
 div {color: pink;
-    margin-left: 330px ;}
+    margin-top: 3px;
+    margin-right: 200px;
+    margin-left: 470px ;}
 
 
  
