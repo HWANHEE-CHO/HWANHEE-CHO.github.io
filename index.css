@@ -4,9 +4,9 @@ text-align: center;
 font-size: 65px;}
 img{display : block;
     margin: 0 auto;}
-div {color: lightpink;}
-.card.card-header{display: inline;
-    text-align: center;}
+div {color: lightpink;
+    margin-left: 330px ;}
+
 ul.list-group list-group-flush.list-group-item{display: inline;
 text-align: center;}
 
